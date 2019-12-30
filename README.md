@@ -7,5 +7,5 @@ whatever is...
 - pytorch is ..
 
 ### naver
-[naver](www.naver.com)
+[naver](http://www.naver.com)
  
